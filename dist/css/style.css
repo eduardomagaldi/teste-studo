@@ -1,0 +1,107 @@
+body {
+  font-family: 'Titillium Web', sans-serif;
+  color: #222;
+  background-color: #ecedee;
+  font-size: 18px; }
+
+.main-wrapper {
+  max-width: 1280px;
+  margin: 0 auto; }
+
+.header-wrapper {
+  background-color: #cdcdcd;
+  text-align: center;
+  margin-top: 96px; }
+
+.header {
+  overflow: hidden; }
+
+.navigation {
+  margin: 20px auto; }
+  .navigation .navigation-list > li {
+    list-style: none;
+    display: inline-block;
+    margin-right: 30px; }
+    .navigation .navigation-list > li .nav-link {
+      color: #222;
+      padding: 0 5px; }
+      .navigation .navigation-list > li .nav-link:hover {
+        text-decoration: none;
+        border-bottom: 3px solid; }
+    .navigation .navigation-list > li .logo {
+      color: #222;
+      font-size: 50px;
+      font-weight: 600; }
+      .navigation .navigation-list > li .logo:hover {
+        text-decoration: none; }
+
+.video-wrapper {
+  height: 650px; }
+
+.content-wrapper {
+  background-color: #fff;
+  overflow: hidden; }
+
+.section {
+  text-align: center;
+  margin: 50px 0; }
+  .section .column {
+    text-align: left; }
+
+.img-solutions {
+  display: block;
+  margin: 0 auto; }
+
+.main-title {
+  font-size: 40px;
+  font-weight: bold;
+  text-transform: uppercase; }
+
+.main-button {
+  background-color: #ea6060;
+  border: 2px solid #ea6060;
+  padding: 15px 30px;
+  color: #fff;
+  text-transform: uppercase;
+  border-radius: 2px;
+  margin-right: 20px; }
+  .main-button:hover {
+    background-color: #fff;
+    text-decoration: none;
+    border-color: #000;
+    color: #000; }
+  .main-button:last-child {
+    margin-right: 0; }
+
+.button-wrapper {
+  margin: 50px 0; }
+
+.main-list {
+  padding: 0; }
+  .main-list > li {
+    list-style: none; }
+    .main-list > li:before {
+      content: "";
+      background-color: #cdcdcd;
+      width: 27px;
+      height: 27px;
+      display: inline-block;
+      border-radius: 50%;
+      vertical-align: middle;
+      margin-right: 15px; }
+
+.stats-list {
+  padding: 0; }
+  .stats-list > li {
+    list-style: none; }
+    .stats-list > li:before {
+      content: "";
+      background-color: #cdcdcd;
+      width: 27px;
+      height: 27px;
+      display: inline-block;
+      border-radius: 50%;
+      vertical-align: middle;
+      margin-right: 15px; }
+
+/*# sourceMappingURL=style.css.map */
