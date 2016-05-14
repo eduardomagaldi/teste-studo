@@ -17,6 +17,7 @@
     "tests"
   ],
   "dependencies": {
-    "bootstrap": "^3.3.6"
+    "flickity": "~1.2.1",
+    "jquery-animatenumber": "~0.0.13"
   }
 }

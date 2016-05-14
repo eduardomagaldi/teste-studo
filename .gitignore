@@ -2,15 +2,6 @@
 bower_components
 node_modules
 
-!bower_components/bootstrap/dist/css/bootstrap.min.css
-!bower_components/eonasdan-bootstrap-datetimepicker/build/css/bootstrap-datetimepicker.min.css
-
+!bower_components/flickity/dist/flickity.min.css
+!bower_components/flickity/dist/flickity.pkgd.min.js
 !bower_components/jquery/dist/jquery.min.js
-!bower_components/moment/min/moment.min.js
-!bower_components/moment/locale/pt-br.js
-!bower_components/bootstrap/dist/js/bootstrap.min.js
-!bower_components/eonasdan-bootstrap-datetimepicker/build/js/bootstrap-datetimepicker.min.js
-
-!bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf
-!bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff
-!bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2
